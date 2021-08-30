@@ -8,13 +8,14 @@ body {
 }
 
 #img-div {
-    padding: 0 10px;
+    margin: 0;
+    padding: 0 
 }
 
 #tribute-info {
     margin: 0 auto;
     padding: 0;
-    width: 90%;
+    max-width: 90%;
     color: #000055;
     font-size: 20px;
     font-weight: normal;
@@ -39,6 +40,7 @@ body {
 }
 
 #image {
+    margin: 0;
     display: block;
     max-width: 100%;
     height: auto;
