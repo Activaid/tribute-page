@@ -97,8 +97,6 @@ body {
     grid-row: ;
 }
 
-
-
 @media (max-width: 425px) {
     #title {
         font-size: 50px;
