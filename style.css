@@ -8,9 +8,6 @@ body {
 }
 
 #img-div {
-    text-align: center;
-    max-width: 1440px;
-    height: auto;
 }
 
 #tribute-info {
@@ -44,7 +41,6 @@ body {
     display: block;
     max-width: 100%;
     height: auto;
-
 }
 
 #img-caption {
