@@ -94,7 +94,6 @@ body {
 
 .photo-item:last-child {
     grid-column: 2/4;
-    grid-row: ;
 }
 
 @media (max-width: 425px) {
