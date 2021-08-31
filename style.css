@@ -65,7 +65,7 @@ body {
     display: grid;
     gap: 5px;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(3, ifr);
+    grid-template-rows: repeat(3, 1fr);
 }
 
 .photo-image {
